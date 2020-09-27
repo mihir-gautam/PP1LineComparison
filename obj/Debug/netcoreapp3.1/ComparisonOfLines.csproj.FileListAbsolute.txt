@@ -1,0 +1,12 @@
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\obj\Debug\netcoreapp3.1\ComparisonOfLines.AssemblyInfoInputs.cache
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\obj\Debug\netcoreapp3.1\ComparisonOfLines.AssemblyInfo.cs
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\obj\Debug\netcoreapp3.1\ComparisonOfLines.csproj.CoreCompileInputs.cache
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\bin\Debug\netcoreapp3.1\ComparisonOfLines.exe
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\bin\Debug\netcoreapp3.1\ComparisonOfLines.deps.json
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\bin\Debug\netcoreapp3.1\ComparisonOfLines.runtimeconfig.json
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\bin\Debug\netcoreapp3.1\ComparisonOfLines.runtimeconfig.dev.json
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\bin\Debug\netcoreapp3.1\ComparisonOfLines.dll
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\bin\Debug\netcoreapp3.1\ComparisonOfLines.pdb
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\obj\Debug\netcoreapp3.1\ComparisonOfLines.dll
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\obj\Debug\netcoreapp3.1\ComparisonOfLines.pdb
+C:\Users\Mihir Gautam\source\repos\ComparisonOfLines\ComparisonOfLines\obj\Debug\netcoreapp3.1\ComparisonOfLines.genruntimeconfig.cache
